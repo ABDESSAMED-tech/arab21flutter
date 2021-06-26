@@ -1,6 +1,18 @@
 # Arabi21Login
 
 A new Flutter project.
+screen :
+--------------------------------------
+login 
+register
+about us
+contact us
+video
+posts
+categories
+favorite
+---------------------------------------
+
 
 ## Getting Started
 
